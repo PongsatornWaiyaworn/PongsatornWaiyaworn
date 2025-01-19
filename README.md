@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 a KMUTT Computer Science student with a keen interest in AI, programming, and the transformative power of technology.
 ---------------------------------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in ฺฺBangkok, Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [pongsatorn291047@gmail.com](mailto:pongsatorn291047@gmail.com)
 
 ### Skills
