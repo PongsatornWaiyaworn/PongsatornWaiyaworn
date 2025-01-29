@@ -7,6 +7,7 @@ a KMUTT Computer Science student with a keen interest in AI, programming, and th
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [pongsatorn291047@gmail.com](mailto:pongsatorn291047@gmail.com)
 
+*/
 ### Skills
 
 
@@ -45,7 +46,7 @@ a KMUTT Computer Science student with a keen interest in AI, programming, and th
 </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">  
 <a href="https://www.construct.net/en/construct-2/" target="_blank" rel="noreferrer"> <img src="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/c53c2c01-f343-4335-8b47-78521c498783" alt="construct2" width="40" height="40"/> </a>
 </p>
-
+*/
 
 ### Socials
 
