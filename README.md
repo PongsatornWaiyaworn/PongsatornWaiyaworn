@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tee Pongsatorn Waiyaworn
 ================================================================================================================================================
 
-a KMUTT Computer Science student with a keen interest in AI, programming, and the transformative power of technology.
+a KMUTT Computer Science student with a keen interest in programming, and the transformative power of technology.
 ---------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Bangkok, Thailand
